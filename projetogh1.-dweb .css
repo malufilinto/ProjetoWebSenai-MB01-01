@@ -1,0 +1,29 @@
+.bg-blue{
+  background:#333333;
+}
+
+.btn-plan{
+background-color:#00b3b3;
+border-color: white;
+}
+
+.textoai{
+  color: #8887c1;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.textdois{
+  color: #d38591;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.textres{
+  color: #85bca9;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.border-shadow {
+box-shadow: rgba(14, 20, 17, 0.12) 0px 2px 4px 0px, rgba(14, 20, 27, 0.32) 0px 2px 16px 0px;
+  box-sizing: content-box;  
+  width: 100%;
+  display: flex;
