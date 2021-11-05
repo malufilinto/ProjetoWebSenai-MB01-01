@@ -27,3 +27,29 @@ box-shadow: rgba(14, 20, 17, 0.12) 0px 2px 4px 0px, rgba(14, 20, 27, 0.32) 0px 2
   box-sizing: content-box;  
   width: 100%;
   display: flex;
+}
+.aboutme-row {
+  margin: 4rem;
+}
+
+.feature-icon{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  font-size: 1rem;
+}
+
+.circle-image{
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 9rem;
+  height: 9rem;
+}
+.circle-image img{
+  width:100%;
+  height:100%;
+  object-fit: cover;
+}
